@@ -1,4 +1,4 @@
-![alt text](assets/uva-datapalooza.png)
+![alt text](assets/uva-datapalooza-2018.png)
 
 ## 1 SUMMARY
 
