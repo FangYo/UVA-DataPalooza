@@ -20,7 +20,7 @@ Once Anaconda is installed, create a virtual environment for the application.  A
 
 ### 1.1.3 APPLICATION REQUIREMENTS
 The application folder contains a requirements.txt file.  This file lists the required Python libraries to run the application:
-* Open the Anaconda Prompt and change directories to the PAIO folder
+* Open the Anaconda Prompt and change directories to the application folder
 * Type “conda activate uva-datapalooza”
 * Type “pip install -r requirements.txt”
 
@@ -35,12 +35,3 @@ Jupyter Notebook is an interactive computational environment, in which one can c
 * Type  “jupyter notebook”
 * Navigate to desired notebook and open
 * From the top menu, select kernel, Restart & Run All
-
-### PLOTLY
-### 1.2.2 PLOTLY DASH
-Plotly Dash is an open source Python library for creating reactive, Web-based applications.  The application’s code is generally stored in an app.py file that is called from a command line or terminal.
-* Open the Anaconda Prompt and change directories to the application folder
-* Type “conda activate uva-datapalooza”
-* Type “jupyter notebook”
-* Open Plotly Dash Jupyter Notebook
-* Restart and run all for kernel
