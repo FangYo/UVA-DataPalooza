@@ -6,11 +6,11 @@
 
 ### PYTHON
 ### 1.1.1 ANACONDA
-The open source Anaconda platform is the industry standard for performing data science tasks in Python.  Please follow the instructions for your operating system from the Anaconda website.
+The Anaconda platform is the industry standard for performing data science tasks in Python.  Please follow the installation instructions for your operating system from the Anaconda website.
 * https://www.anaconda.com/
 
 ### 1.1.2 VIRTUAL ENVIRONMENT
-Once Anaconda is installed, create a virtual environment for the application.  A virtual environment allows us to isolate the Python packages installed for Anaconda and is good practice.
+Once Anaconda is installed, create a virtual environment for the application.  A virtual environment allows us to isolate the Python packages installed for Anaconda.
 * Open Anaconda Navigator
 * Select the “Environments” tab
 * Select the “Create” button
@@ -28,7 +28,7 @@ The application folder contains a requirements.txt file.  This file lists the re
 
 ### JUPYTER NOTEBOOK
 ### 1.2.1 DATA VISUALIZATION
-Jupyter Notebook is an interactive computational environment, in which one can combine code execution, rich text, mathematics, plots and rich media. The data processing, analytics, and visualization notebooks (.ipynb files) are can be run using the following steps.
+Jupyter Notebook is an interactive computational environment. The application can be run using the following steps.
 * Open the Anaconda Prompt and change directories to the application folder
 * Type “conda activate uva-datapalooza”
 * Type ‘python -m ipykernel install --user --name uva-datapalooza --display-name "Python (uva-datapalooza)"’ NOTE: Only required once.
