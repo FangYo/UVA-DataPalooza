@@ -35,3 +35,4 @@ Jupyter Notebook is an interactive computational environment. The application ca
 * Type  “jupyter notebook”
 * Navigate to desired notebook and open
 * From the top menu, select kernel, Restart & Run All
+* Please let me know if you have any questions or concerns.
